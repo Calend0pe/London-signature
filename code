@@ -1,0 +1,17 @@
+.lld1{float:right;height: 200px;width: 160px;background-size:125%;background-position: 25% 25%;background-color:rgb(199, 182, 98);background-blend-mode: multiply;transition: all 0.8s ease-in-out;}
+
+.ldnfundo:hover .lld1 {background-position:25% 70%;background-color:#555;background-blend-mode: multiply;transition: 1s ease;}
+
+.ldnfundo {width:280px;height: 200px;position:relative;outline: 1px solid #444;padding:8px;outline-offset:0px;}
+
+.ldnfundo:hover .textin1{opacity: 0;
+transition: all ease-in-out 1s;}
+
+.textin1 {width:280px; height: auto;font-family: "Abril Fatface"; font-size: 18px; color: rgb(199, 182, 98); letter-spacing: 2px; text-transform: uppercase; text-align: right; line-height:100%;position:relative; top: 40px; right:5px;transition: all ease-in-out 2s;transition-delay: 0.3s;}
+
+.textinld {font-family: calibri;color: #fff;position: relative;top: 0px;
+left: -144px;text-transform: uppercase;
+font-size: 6px;letter-spacing: 2px; text-align: justify;opacity: 0;line-height: 120%; width: 94px; height: 180px;padding: 10px;background-color: rgb(199, 182, 98);background-image:url('https://i.pinimg.com/originals/95/9f/b1/959fb1f51bc1026ace27acede55e1bc8.gif');background-blend-mode: darken;background-size:cover;transition: all ease-in-out 0.6s;}
+
+.ldnfundo:hover .textinld {opacity: 0.8;transition: all ease-in-out 1s;
+transition-delay: 0.3s;}
